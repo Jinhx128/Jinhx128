@@ -1,9 +1,10 @@
-[![luoyu's github stats](https://github-readme-stats.vercel.app/api?username=luoyusoft)](https://github.com/luoyusoft/github-readme-stats)
+[![Jinhx's github stats](https://github-readme-stats.vercel.app/api?username=Jinhx128)](https://github.com/Jinhx128/github-readme-stats)
 
-#### Nice 👋
+#### 冲冲冲！👋
 
-> Hi, I'am luoyu.
+> Hi, I'am Jinhx.
 
-🇨🇳 &nbsp;China ShenZhen  &nbsp;&nbsp;&nbsp;  🌱 &nbsp;Unknow Now
+🇨🇳 &nbsp;China ShenZhen  &nbsp;&nbsp;&nbsp;  🌱 &nbsp;zhuanzhuan
 
-[https://luoyublog.com](https://luoyublog.com)
+[https://jinhx.cc](https://jinhx.cc)
+
